@@ -2,7 +2,7 @@
 
 I'm a web developer and instructor with over a decade of experience in the field. I absolutely love teaching and mentoring students, and my passion for web development is contagious! Whether I'm leading a group class or providing one-on-one coaching, I strive to create a fun and supportive learning environment that encourages creativity and experimentation.
 
-When I'm not in the classroom, you can usually find me outdoors with my furry friends. I'm a proud dog mom and love spending time with my pups, whether we're hiking through the mountains or just lounging in the sun. I also love to travel. There's nothing quite like the thrill of exploring new places and immersing myself in different cultures.
+When I'm not in the classroom, you can usually find me outdoors with my four-legged sidekicks. I'm a proud dog mom and love spending time with my pups, whether we're hiking through the mountains or just lounging in the sun. I also love to travel. There's nothing quite like the thrill of exploring new places and immersing myself in different cultures.
 
 <!-- ### Languages and tools
 
